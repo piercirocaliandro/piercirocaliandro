@@ -2,6 +2,7 @@
 
 # Hello There !
 I am a computer engineer born and raised at University of Rome Tor Vergata. If you are interested, you can find the projects that I developed during these 5 years of uni [here](https://github.com/orgs/BSc-MSc-Projects/repositories).<br><br>
+[Here](https://github.com/BSc-MSc-Projects/Master-s-Degree-Notes), I gathered all the notes I took during my Master's.<br> 
 Currently, I am working as a security researcher and trying to pursue a PhD in Computer Engineering.
 
 # About this github profile
