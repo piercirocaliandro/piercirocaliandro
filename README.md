@@ -8,9 +8,9 @@ Currently, I am working as a security researcher and trying to pursue a PhD in C
 # About this github profile
 Below, some stats and languages that I have used or I like to use <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=piercirocaliandro&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=piercirocaliandro&include_orgs=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piercirocaliandro&layout=compact&theme=radical&exclude_repo=Music-Learning,Master-s-Degree-Notes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piercirocaliandro&include_orgs=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Current tech stack
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
