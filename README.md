@@ -5,10 +5,12 @@ I am a computer engineer born and raised at University of Rome Tor Vergata. If y
 [Here](https://github.com/BSc-MSc-Projects/Master-s-Degree-Notes), I gathered all the notes I took during my Master's.<br> 
 Currently, I am working as a security researcher and trying to pursue a PhD in Computer Engineering.
 
-# About this github profile
-Below, some stats and languages that I have used or I like to use <br>
+# Stats
+[Shoutout to this awesome repo](https://github.com/jstrieb/github-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=piercirocaliandro&include_orgs=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/piercirocaliandro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<br>
+![](https://raw.githubusercontent.com/piercirocaliandro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piercirocaliandro&include_orgs=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
