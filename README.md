@@ -12,8 +12,6 @@ Currently, I am working as a security researcher and trying to pursue a PhD in C
 <br>
 ![](https://raw.githubusercontent.com/piercirocaliandro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piercirocaliandro&include_orgs=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 # Current tech stack
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
